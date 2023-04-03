@@ -1,0 +1,81 @@
+* {
+    font-size: 16px;
+    font-family: "Beausite-Slick", Arial, sans-serif;
+    font-weight: 300;
+}
+
+.heading {
+    font-size: 45px;
+    letter-spacing: 7%;
+    font-family: "Beausite-Slick", Arial, sans-serif;
+    line-height: 1.5;
+
+    &--h1 {
+        font-family: "Beausite-Slick", Arial, sans-serif;
+        font-size: 45px;
+        letter-spacing: 7%;
+        line-height: 1.5;
+    }
+
+    &--h2 {
+        font-family: "Beausite-Slick", Arial, sans-serif;
+        font-size: 35px;
+        letter-spacing: 7%;
+        line-height: 1.5;
+    }
+
+    &--h3 {
+        font-family: "Beausite-Classic", Arial, sans-serif;
+        font-size: 35px;
+        letter-spacing: 7%;
+        line-height: 1.5;
+    }
+
+    &--h4 {
+        font-family: "Beausite-Slick", Arial, sans-serif;
+        font-size: 25px;
+        letter-spacing: 7%;
+        line-height: 1.5;
+    }
+
+}
+
+.paragraph {
+    font-size: 25px;
+    font-family: "Beausite-Classic", Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.prelaunch {
+
+    &__peaker, .peaker {
+
+        &__text {
+            font-size: 24px;
+        }
+        
+    }
+
+    &__message, .message {
+
+        &__text {
+            line-height: 1;
+        }
+
+        &__letter {
+            font-size: 40px;
+            line-height: 1;
+        }
+
+    }
+
+    &__address, .address {
+
+        &__item, 
+        &__link {
+            font-size: 18px;
+        }
+
+    }
+
+}
