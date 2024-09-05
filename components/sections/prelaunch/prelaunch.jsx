@@ -30,12 +30,16 @@ const Prelaunch = () => {
             </div>
             <div className="prelaunch__message message">
                 <Heading className="message__text">
+                    <span className="message__letter">W</span>
+                    <span className="message__letter">E</span>
+                    <span className="message__letter">'</span>
+                    <span className="message__letter">R</span>
+                    <span className="message__letter">E</span>
+                    <span className="message__letter"> </span>
+                    <span className="message__letter">B</span>
+                    <span className="message__letter">A</span>
                     <span className="message__letter">C</span>
-                    <span className="message__letter">O</span>
-                    <span className="message__letter">M</span>
-                    <span className="message__letter">I</span>
-                    <span className="message__letter">N</span>
-                    <span className="message__letter">G</span>
+                    <span className="message__letter">K</span>
                     <span className="message__letter"> </span>
                     <span className="message__letter">S</span>
                     <span className="message__letter">O</span>
